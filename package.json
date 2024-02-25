@@ -1,6 +1,6 @@
 {
   "name": "@dayle-probably/cloud-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "auth utility",
   "main": "index.js",
   "scripts": {
