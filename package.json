@@ -21,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/dayle-probably/cloud-auth/issues"
   },
-  "homepage": "https://github.com/dayle-probably/cloud-auth#readme"
+  "homepage": "https://github.com/dayle-probably/cloud-auth#readme",
+  "dependencies": {
+    "@google-cloud/firestore": "^7.3.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "uuid": "^9.0.1"
+  }
 }

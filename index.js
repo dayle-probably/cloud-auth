@@ -4,6 +4,9 @@ const hello = (name) => {
   return `Hello, ${name}!`;
 }
 
+const passport = require('./passport');
+
 module.exports = {
   hello,
+  passport,
 };
